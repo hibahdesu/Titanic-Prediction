@@ -1,7 +1,5 @@
 
-
 ---
-![Titanic Image](https://path_to_image.com/titanic_image.jpg)
 
 # Titanic Prediction with MLOps Pipeline
 
